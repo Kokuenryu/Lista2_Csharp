@@ -1,0 +1,14 @@
+/home/henrique/Atividades_programacao2/Lista2ex4/obj/Debug/net10.0/Lista2ex4.GeneratedMSBuildEditorConfig.editorconfig
+/home/henrique/Atividades_programacao2/Lista2ex4/obj/Debug/net10.0/Lista2ex4.AssemblyInfoInputs.cache
+/home/henrique/Atividades_programacao2/Lista2ex4/obj/Debug/net10.0/Lista2ex4.AssemblyInfo.cs
+/home/henrique/Atividades_programacao2/Lista2ex4/obj/Debug/net10.0/Lista2ex4.csproj.CoreCompileInputs.cache
+/home/henrique/Atividades_programacao2/Lista2ex4/bin/Debug/net10.0/Lista2ex4
+/home/henrique/Atividades_programacao2/Lista2ex4/bin/Debug/net10.0/Lista2ex4.deps.json
+/home/henrique/Atividades_programacao2/Lista2ex4/bin/Debug/net10.0/Lista2ex4.runtimeconfig.json
+/home/henrique/Atividades_programacao2/Lista2ex4/bin/Debug/net10.0/Lista2ex4.dll
+/home/henrique/Atividades_programacao2/Lista2ex4/bin/Debug/net10.0/Lista2ex4.pdb
+/home/henrique/Atividades_programacao2/Lista2ex4/obj/Debug/net10.0/Lista2ex4.dll
+/home/henrique/Atividades_programacao2/Lista2ex4/obj/Debug/net10.0/refint/Lista2ex4.dll
+/home/henrique/Atividades_programacao2/Lista2ex4/obj/Debug/net10.0/Lista2ex4.pdb
+/home/henrique/Atividades_programacao2/Lista2ex4/obj/Debug/net10.0/Lista2ex4.genruntimeconfig.cache
+/home/henrique/Atividades_programacao2/Lista2ex4/obj/Debug/net10.0/ref/Lista2ex4.dll
