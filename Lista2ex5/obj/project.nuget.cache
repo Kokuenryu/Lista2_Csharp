@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PWYYROJr9Nk=",
+  "success": true,
+  "projectFilePath": "/home/henrique/Lista2_Csharp/Lista2ex5/Lista2ex5.csproj",
+  "expectedPackageFiles": [
+    "/home/henrique/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Lista2ex4
+namespace Lista2ex5
 {
     class Program
     {
