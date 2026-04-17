@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/henrique/Lista2_Csharp/Lista2ex2/Lista2ex2.csproj": {}
+    "/home/henrique/Lista2_Csharp/Lista2ex7/Lista2ex7.csproj": {}
   },
   "projects": {
-    "/home/henrique/Lista2_Csharp/Lista2ex2/Lista2ex2.csproj": {
+    "/home/henrique/Lista2_Csharp/Lista2ex7/Lista2ex7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/henrique/Lista2_Csharp/Lista2ex2/Lista2ex2.csproj",
-        "projectName": "Lista2ex2",
-        "projectPath": "/home/henrique/Lista2_Csharp/Lista2ex2/Lista2ex2.csproj",
+        "projectUniqueName": "/home/henrique/Lista2_Csharp/Lista2ex7/Lista2ex7.csproj",
+        "projectName": "Lista2ex7",
+        "projectPath": "/home/henrique/Lista2_Csharp/Lista2ex7/Lista2ex7.csproj",
         "packagesPath": "/home/henrique/.nuget/packages/",
-        "outputPath": "/home/henrique/Lista2_Csharp/Lista2ex2/obj/",
+        "outputPath": "/home/henrique/Lista2_Csharp/Lista2ex7/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/henrique/.nuget/NuGet/NuGet.Config"

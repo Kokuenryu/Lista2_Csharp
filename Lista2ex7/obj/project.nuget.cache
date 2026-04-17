@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y06iFnlk7CM=",
+  "dgSpecHash": "uU5I1vCUg18=",
   "success": true,
-  "projectFilePath": "/home/henrique/Lista2_Csharp/Lista2ex2/Lista2ex2.csproj",
+  "projectFilePath": "/home/henrique/Lista2_Csharp/Lista2ex7/Lista2ex7.csproj",
   "expectedPackageFiles": [
     "/home/henrique/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
   ],
@@ -11,9 +11,9 @@
       "code": "NU1900",
       "level": "Warning",
       "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
-      "projectPath": "/home/henrique/Lista2_Csharp/Lista2ex2/Lista2ex2.csproj",
+      "projectPath": "/home/henrique/Lista2_Csharp/Lista2ex7/Lista2ex7.csproj",
       "warningLevel": 1,
-      "filePath": "/home/henrique/Lista2_Csharp/Lista2ex2/Lista2ex2.csproj",
+      "filePath": "/home/henrique/Lista2_Csharp/Lista2ex7/Lista2ex7.csproj",
       "targetGraphs": []
     }
   ]
